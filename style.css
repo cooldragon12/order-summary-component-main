@@ -110,7 +110,8 @@ body {
 .card-plan-title-price {
     display: flex;
     flex-direction: column;
-    margin-right: 6rem;
+    margin-right: 5rem;
+    margin-left: 1rem;
 }
 
 .card-plan-title-price h2,
