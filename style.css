@@ -164,7 +164,7 @@ body {
 
 }
 footer {
-    height: 2rem;
+    height: 3rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -172,4 +172,5 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-  }
+    z-index: 1;
+}
