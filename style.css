@@ -10,6 +10,9 @@ body {
     .container {
       margin: 20px; /* Adjust the margin value as needed */
     }
+    footer {
+      position: relative;
+    }
   }
 .attribution {
     font-size: 11px;
